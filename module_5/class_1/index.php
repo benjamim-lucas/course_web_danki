@@ -5,6 +5,10 @@
     </header>
     <body>
         <h1>Test Page</h1>
-        <p>This is a test page to check the HTML structure.</p>
+        <p>
+            <?php
+            echo "This is a test page.";
+            ?>
+        </p>
     </body>
 </html>
